@@ -2,6 +2,7 @@ package com.lti.hib_ex.Hibernate_Project2;
 
 import java.util.Scanner;
 
+
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
